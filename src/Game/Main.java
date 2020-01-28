@@ -1,14 +1,14 @@
 package Game;
 
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * Arun K
+ * This is the Intro screen
+ * Jan 20 2020
  */
 
 /**
  *
- * @author ajayk
+ * @author arkir7294
  */
 public class Main extends javax.swing.JFrame {
 
